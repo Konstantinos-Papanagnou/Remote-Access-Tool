@@ -1,0 +1,20 @@
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\bin\Debug\Server.exe.config
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\bin\Debug\Server.exe
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\bin\Debug\Server.pdb
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Debug\Server.Form1.resources
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Debug\Server.exe
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Debug\Server.pdb
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\bin\Debug\RAT icon.ico
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\konst\source\repos\Projects\rat\Server\bin\Debug\RAT icon.ico
+C:\Users\konst\source\repos\Projects\rat\Server\bin\Debug\Server.exe.config
+C:\Users\konst\source\repos\Projects\rat\Server\bin\Debug\Server.exe
+C:\Users\konst\source\repos\Projects\rat\Server\bin\Debug\Server.pdb
+C:\Users\konst\source\repos\Projects\rat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\konst\source\repos\Projects\rat\Server\obj\Debug\Server.Form1.resources
+C:\Users\konst\source\repos\Projects\rat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\konst\source\repos\Projects\rat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\konst\source\repos\Projects\rat\Server\obj\Debug\Server.exe
+C:\Users\konst\source\repos\Projects\rat\Server\obj\Debug\Server.pdb

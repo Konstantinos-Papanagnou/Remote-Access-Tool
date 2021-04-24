@@ -1,0 +1,10 @@
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\bin\Release\Server.exe.config
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\bin\Release\RAT icon.ico
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\bin\Release\Server.exe
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\bin\Release\Server.pdb
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Release\Server.Form1.resources
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Release\Server.exe
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Server\obj\Release\Server.pdb

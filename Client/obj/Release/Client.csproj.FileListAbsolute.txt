@@ -1,0 +1,6 @@
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Client\bin\Release\Client.exe.config
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Client\bin\Release\Client.exe
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Client\bin\Release\Client.pdb
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Client\obj\Release\Client.exe
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Client\obj\Release\Client.pdb
+C:\Users\Kvn\documents\visual studio 2015\Projects\rat\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
