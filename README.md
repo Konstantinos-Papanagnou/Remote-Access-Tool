@@ -14,3 +14,5 @@ When you start a process make sure to type the .exe extention of the program you
 The bug where the clients could not reconnect to the server has been resolved.
 Best practice is to complete all the actions you want before you shutdown the server
 
+![](server.png)
+![](server-tasks.png)
